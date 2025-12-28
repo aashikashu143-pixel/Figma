@@ -34,7 +34,7 @@ Link frames to show navigation or interactions.
 Select the specific frame while generating code using Anima plugin.
 
 ## CODE:
-```
+~~~
 page1
 html
 import React from "react";
@@ -610,10 +610,11 @@ module.exports = {
   },
   plugins: [],
 };
+~~~
 
 
 ## OUTPUT:
+![alt text](<Screenshot 2025-12-28 234636.png>)
 
-Screenshot 2025-12-28 234636.png
 ## RESULT:
 The program to design, develop and deploy a web application for event registration using Figma UI tool is completed successfully.
